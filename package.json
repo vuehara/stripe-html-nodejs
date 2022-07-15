@@ -11,5 +11,15 @@
   "dependencies": {
     "express": "^4.17.1",
     "stripe": "^9.13.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuehara/stripe-html-nodejs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/vuehara/stripe-html-nodejs/issues"
+  },
+  "homepage": "https://github.com/vuehara/stripe-html-nodejs#readme"
 }
