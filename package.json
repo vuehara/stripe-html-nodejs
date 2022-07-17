@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node server.js"
   },
+    "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "stripe-samples",
   "license": "ISC",
   "dependencies": {
@@ -21,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/vuehara/stripe-html-nodejs/issues"
   },
-  "homepage": "https://github.com/vuehara/stripe-html-nodejs#readme"
+
 }
